@@ -1,0 +1,28 @@
+body{
+    font-weight: bolder;
+    font-size: larger;
+    font-weight: 4rem;
+    background-color:darkgray;
+}
+
+h1{
+text-align: center;
+text-decoration:dotted;
+font-size: 60px;
+}
+
+div{
+    
+    background-color: magenta;
+}
+#pass{
+background-color:rgb(253, 251, 251);
+
+}
+
+p{
+font: size 25px;
+line-height: 50px;
+
+
+}
